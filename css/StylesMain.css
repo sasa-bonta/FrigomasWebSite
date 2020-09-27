@@ -2,7 +2,7 @@
     background: #11998e;  /* fallback for old browsers */
     background: -webkit-linear-gradient(to right, #38ef7d, #11998e);  /* Chrome 10-25, Safari 5.1-6 */
     background: linear-gradient(to right, #38ef7d, #11998e);
-    background-image: url("Images/fm1.png");
+    background-image: url("../Images/fm1.png");
     background-attachment:fixed;
     background-size: 40%;
     background-repeat: no-repeat;
@@ -38,7 +38,7 @@
     border-color: rgb(0,0,0);
 }
 .custom-toggler .navbar-toggler-icon {
-    background-image: url("Images/menu.svg");
+    background-image: url("../Images/menu.svg");
 }
 
 .anchor{
